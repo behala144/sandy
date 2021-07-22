@@ -265,5 +265,4 @@ http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1  tvg-id="id" group-title="Cartoon" tvg-logo="Logo",Sonic Bangla
 https://jio.instream.ml/jio.php?c=Sonic_Bangla&q=800&e=.m3u8
-#EXTINF:-1  tvg-id="id" group-title="Cartoon" tvg-logo="Logo",Duronto TV
-http://103.157.237.18:8000/play/132
+

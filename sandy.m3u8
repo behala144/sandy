@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:50,Zee Bangla FHD
+#EXTINF:0,Zee Bangla FHD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=

@@ -1,537 +1,537 @@
 #EXTM3U
-#EXTINF:0,Zee Bangla FHD
+#EXTINF:1,Zee Bangla FHD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Zee Bangla HD
+#EXTINF:1,Zee Bangla HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream30.m3u8
-#EXTINF:0,Star Jalsha HD
+#EXTINF:1,Star Jalsha HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream31.m3u8
-#EXTINF:0,Colors Bangla HD
+#EXTINF:1,Colors Bangla HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream28.m3u8
-#EXTINF:0,Zee Bangla Cinema
+#EXTINF:1,Zee Bangla Cinema
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:0,Jalsha Movies HD
+#EXTINF:1,Jalsha Movies HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream27.m3u8
-#EXTINF:0,Sun Bangla
+#EXTINF:1,Sun Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-#EXTINF:0,Enter 10 Bangla
+#EXTINF:1,Enter 10 Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream26.m3u8
-#EXTINF:0,ABP Ananda
+#EXTINF:1,ABP Ananda
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:0,24 Ghanta
+#EXTINF:1,24 Ghanta
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-24ghantatv
-#EXTINF:0,TV9 Bangla
+#EXTINF:1,TV9 Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-378
-#EXTINF:0,AKD Calcutta News (540p)
+#EXTINF:1,AKD Calcutta News (540p)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:0,Zee News
+#EXTINF:1,Zee News
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/EX/zeenews-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Zee Hindustan
+#EXTINF:1,Zee Hindustan
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeehindustan
-#EXTINF:0,Sangeet Bangla
+#EXTINF:1,Sangeet Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,Zee5 Romance
+#EXTINF:1,Zee5 Romance
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:0,MTV HD
+#EXTINF:1,MTV HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
-#EXTINF:0,MTV Beats HD
+#EXTINF:1,MTV Beats HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=800&e=.m3u8
-#EXTINF:0,MTV Music
+#EXTINF:1,MTV Music
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7316
-#EXTINF:0,MTV Classic
+#EXTINF:1,MTV Classic
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/7320
-#EXTINF:0,Zoom
+#EXTINF:1,Zoom
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Music India
+#EXTINF:1,Music India
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:0,9X Jhakaas
+#EXTINF:1,9X Jhakaas
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:0,9XM
+#EXTINF:1,9XM
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=9XM&q=800&e=.m3u8
-#EXTINF:0,9X Jalwa
+#EXTINF:1,9X Jalwa
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=9X_Jalwa&q=800&e=.m3u8
-#EXTINF:0,B4U Music
+#EXTINF:1,B4U Music
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/HINDI_B4U_MUSIC-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,B4U Music
+#EXTINF:1,B4U Music
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/EX/b4umusic-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,STAR PLUS HD
+#EXTINF:1,STAR PLUS HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
-#EXTINF:0,Star Plus HD
+#EXTINF:1,Star Plus HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream38.m3u8
-#EXTINF:0,Colors HD
+#EXTINF:1,Colors HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
-#EXTINF:0,Zee TV HD
+#EXTINF:1,Zee TV HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
-#EXTINF:0,Zee TV HD
+#EXTINF:1,Zee TV HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeetvhd
-#EXTINF:0,Zee Zest HD
+#EXTINF:1,Zee Zest HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-348
-#EXTINF:0,Shemaroo TV
+#EXTINF:1,Shemaroo TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-#EXTINF:0,& TV HD
+#EXTINF:1,& TV HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=RK
-#EXTINF:0,Sony Entertainment HD
+#EXTINF:1,Sony Entertainment HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
-#EXTINF:0,Star Bharat HD
+#EXTINF:1,Star Bharat HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-#EXTINF:0,Star Parvah
+#EXTINF:1,Star Parvah
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony SAB HD
+#EXTINF:1,Sony SAB HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=800&e=.m3u8
-#EXTINF:0,Sony Pal
+#EXTINF:1,Sony Pal
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sony_Pal&q=800&e=.m3u8
-#EXTINF:0,Colors Cineplex HD
+#EXTINF:1,Colors Cineplex HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Max HD
+#EXTINF:1,Sony Max HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony MAX2
+#EXTINF:1,Sony MAX2
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sony_MAX2&q=800&e=.m3u8
-#EXTINF:0,Star Gold 2 HD
+#EXTINF:1,Star Gold 2 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
-#EXTINF:0,Star Gold Select HD
+#EXTINF:1,Star Gold Select HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RK
-#EXTINF:0,Star Gold HD
+#EXTINF:1,Star Gold HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Maa Movies HD
+#EXTINF:1,Star Maa Movies HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:0,Sony WAH
+#EXTINF:1,Sony WAH
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:0,Zee Action
+#EXTINF:1,Zee Action
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:0,ZEE AFLAM
+#EXTINF:1,ZEE AFLAM
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0,Zee Cinema Middle East
+#EXTINF:1,Zee Cinema Middle East
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:0,Zee Cinema UK
+#EXTINF:1,Zee Cinema UK
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:0,Zee Cinema USA
+#EXTINF:1,Zee Cinema USA
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
-#EXTINF:0,Zee Bollywood
+#EXTINF:1,Zee Bollywood
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:0,Zee Classic
+#EXTINF:1,Zee Classic
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-176
-#EXTINF:0,Zee Anmol Cinema
+#EXTINF:1,Zee Anmol Cinema
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeeanmolcinema
-#EXTINF:0,& PICTURES HD
+#EXTINF:1,& PICTURES HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=RK
-#EXTINF:0,UTV FHD
+#EXTINF:1,UTV FHD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/FHD_UTV_-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,B4U Movies
+#EXTINF:1,B4U Movies
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/NL/b4umovies-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Zing
+#EXTINF:1,Zing
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-#EXTINF:0,MANORANJAN MOVIES
+#EXTINF:1,MANORANJAN MOVIES
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.net
-#EXTINF:0,MAHA MOVIE
+#EXTINF:1,MAHA MOVIE
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.net
-#EXTINF:0,&Flix
+#EXTINF:1,&Flix
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:0,HBO HD
+#EXTINF:1,HBO HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0,HBO Family
+#EXTINF:1,HBO Family
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0,HBO Hits
+#EXTINF:1,HBO Hits
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:0,Sony Pix HD
+#EXTINF:1,Sony Pix HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF:0,Zee Cafe HD
+#EXTINF:1,Zee Cafe HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:0,AXN East Asia (Vietnam) (1080p)
+#EXTINF:1,AXN East Asia (Vietnam) (1080p)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0,Warner TV
+#EXTINF:1,Warner TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://203.154.243.89:11205/
-#EXTINF:0,Paramount Channel
+#EXTINF:1,Paramount Channel
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:0,Paramount Movie Channel
+#EXTINF:1,Paramount Movie Channel
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,& PRIVE HD
+#EXTINF:1,& PRIVE HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:0,Zee World
+#EXTINF:1,Zee World
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:0,& PRIVE HD
+#EXTINF:1,& PRIVE HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:0,Movies Now HD
+#EXTINF:1,Movies Now HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.206:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=rk
-#EXTINF:0,Star Movies Select HD
+#EXTINF:1,Star Movies Select HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=SS
-#EXTINF:0,Fox Action Movies
+#EXTINF:1,Fox Action Movies
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:0,Hallmark Movies & More
+#EXTINF:1,Hallmark Movies & More
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:0,Local Now Movies of the 2000s
+#EXTINF:1,Local Now Movies of the 2000s
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
-#EXTINF:0,Local Now Movies of the 2010s
+#EXTINF:1,Local Now Movies of the 2010s
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
-#EXTINF:0,English NatGeo English HD
+#EXTINF:1,English NatGeo English HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,English NAt Geo Wild HD
+#EXTINF:1,English NAt Geo Wild HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/ENGLISH_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,National Geographic HD Hindi
+#EXTINF:1,National Geographic HD Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0,National Geographic HD Bangla
+#EXTINF:1,National Geographic HD Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream13.m3u8
-#EXTINF:0,Nat Geo WILD-Asia
+#EXTINF:1,Nat Geo WILD-Asia
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:0,National Geographic Wild
+#EXTINF:1,National Geographic Wild
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:0,National Geographic Wild Hindi
+#EXTINF:1,National Geographic Wild Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:0,History Channel
+#EXTINF:1,History Channel
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:0,Animal Planet World HD
+#EXTINF:1,Animal Planet World HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Animal Planet Hindi
+#EXTINF:1,Animal Planet Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:0,Discovery World HD
+#EXTINF:1,Discovery World HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/ENGLISH_DISCOVERY_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0,Discover Hindi
+#EXTINF:1,Discover Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:0,Discovery Science English
+#EXTINF:1,Discovery Science English
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:0,Discovery Turbo
+#EXTINF:1,Discovery Turbo
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
-#EXTINF:0,Travel XP HD Bangla
+#EXTINF:1,Travel XP HD Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream37.m3u8
-#EXTINF:0,Sony BBC Earth HD English
+#EXTINF:1,Sony BBC Earth HD English
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_English&q=800&e=.m3u8
-#EXTINF:0,Sony BBC Earth HD Hindi
+#EXTINF:1,Sony BBC Earth HD Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
-#EXTINF:0,Live Sports
+#EXTINF:1,Live Sports
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://185.180.15.17:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF:0,ESPN (720p)
+#EXTINF:1,ESPN (720p)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0,Star Sports 1 HD
+#EXTINF:1,Star Sports 1 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream15.m3u8
-#EXTINF:0,Star Sports 2 HD
+#EXTINF:1,Star Sports 2 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
-#EXTINF:0,Star Sports Select 1 HD
+#EXTINF:1,Star Sports Select 1 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream12.m3u8
-#EXTINF:0,Star Sports Select 2 HD
+#EXTINF:1,Star Sports Select 2 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
-#EXTINF:0,Sony Six HD
+#EXTINF:1,Sony Six HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
-#EXTINF:0,Sony Ten 1 HD
+#EXTINF:1,Sony Ten 1 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:0,Sony Ten 2 HD
+#EXTINF:1,Sony Ten 2 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:0,Ten 3 HD
+#EXTINF:1,Ten 3 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
-#EXTINF:0,Star Sports
+#EXTINF:1,Star Sports
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:0,Trace Sport Stars (Australia)
+#EXTINF:1,Trace Sport Stars (Australia)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0,Ten Cricket
+#EXTINF:1,Ten Cricket
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://180.210.191.2/hls/stream34.m3u8
-#EXTINF:0,Fox Sports
+#EXTINF:1,Fox Sports
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0,Sports TV
+#EXTINF:1,Sports TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:0,T Sports HD
+#EXTINF:1,T Sports HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://103.157.237.18:8000/play/630
-#EXTINF:0,Eurosport HD
+#EXTINF:1,Eurosport HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
-#EXTINF:0,WWE NETWORK
+#EXTINF:1,WWE NETWORK
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-#EXTINF:0,Jio Football HD
+#EXTINF:1,Jio Football HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Jio_Football&q=800&e=.m3u8
-#EXTINF:0,Jio Football 3 HD
+#EXTINF:1,Jio Football 3 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Jio_Football_3&q=800&e=.m3u8
-#EXTINF:0,Jio Football 2 HD
+#EXTINF:1,Jio Football 2 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Jio_Football_2&q=800&e=.m3u8
-#EXTINF:0,Jio Football 1 HD
+#EXTINF:1,Jio Football 1 HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Jio_Football_1&q=800&e=.m3u8
-#EXTINF:0,Jio Cricket English HD
+#EXTINF:1,Jio Cricket English HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
-#EXTINF:0,Cartoon Network HD (English)
+#EXTINF:1,Cartoon Network HD (English)
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/13103
-#EXTINF:0,Marvel HQ HD
+#EXTINF:1,Marvel HQ HD
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:0,Nick Junior Hindi
+#EXTINF:1,Nick Junior Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://103.153.39.34:8000/play/a04r/index.m3u8
-#EXTINF:0,Khusbo tv
+#EXTINF:1,Khusbo tv
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
-#EXTINF:0,Nick HD+
+#EXTINF:1,Nick HD+
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Nick_HD_Plus&q=800&e=.m3u8
-#EXTINF:0,Nick
+#EXTINF:1,Nick
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://180.210.191.2/hls/stream23.m3u8
-#EXTINF:0,Discovery Kids Hindi
+#EXTINF:1,Discovery Kids Hindi
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
-#EXTINF:0,Boomerang
+#EXTINF:1,Boomerang
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:0,Pogo
+#EXTINF:1,Pogo
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.211:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RK
-#EXTINF:0,Hungama
+#EXTINF:1,Hungama
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://212.224.98.209:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RK
-#EXTINF:0,Sony Yay Bangla
+#EXTINF:1,Sony Yay Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:0,Sonic Bangla
+#EXTINF:1,Sonic Bangla
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://jio.instream.ml/jio.php?c=Sonic_Bangla&q=800&e=.m3u8
-#EXTINF:0,Duronto TV
+#EXTINF:1,Duronto TV
 #EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 http://103.157.237.18:8000/play/132

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="id" group-title="Bengali TV" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg",Zee Bangla FHD
-http://212.102.60.40:2200/R-EX/FHD_ZEE_BANGLA_-in/tracks-v1a1/mono.m3u8?token=
+http://103.157.237.18:8000/play/206
 #EXTINF:-1  tvg-id="id" group-title="Bengali TV" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg",Zee Bangla HD
 http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-1  tvg-id="id" group-title="Bengali TV" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg",Star Jalsha HD
